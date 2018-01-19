@@ -38,7 +38,7 @@ Aspect Ratio : quand il a une valeur haute les rectangles devient assez minces e
 <table border="0">
   <tr>
     <td>
-      <img src="C:\Users\maria\Desktop\universidad\Master\Segundo\MOS\Visualisation des donnees\Tarea 1\Captura.PNG" style="width: 100px;">
+      <img src="img/Electoral-Dashboard-treemap.png" style="width: 100px;">
     </td>
   </tr>
 </table>
@@ -46,7 +46,7 @@ Aspect Ratio : quand il a une valeur haute les rectangles devient assez minces e
 <table border="0">
   <tr>
     <td>
-      <img src="C:\Users\maria\Desktop\universidad\Master\Segundo\MOS\Visualisation des donnees\Tarea 1\Captura.PNG" style="width: 100px;">
+      <img src="img/Gradient_grouped_treemap.jpg" style="width: 100px;">
     </td>
   </tr>
 </table>
@@ -54,7 +54,7 @@ Aspect Ratio : quand il a une valeur haute les rectangles devient assez minces e
 <table border="0">
   <tr>
     <td>
-      <img src="C:\Users\maria\Desktop\universidad\Master\Segundo\MOS\Visualisation des donnees\Tarea 1\Captura.PNG" style="width: 100px;">
+      <img src="img/oil_consumption_treemap.png" style="width: 100px;">
     </td>
   </tr>
 </table>
