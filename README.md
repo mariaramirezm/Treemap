@@ -16,7 +16,7 @@ Malheureusement ces propriétés s'opposent : tandis que les proportions sont op
 <table border="0">
   <tr>
     <td>
-      <img src="C:\Users\maria\Desktop\universidad\Master\Segundo\MOS\Visualisation des donnees\Tarea 1\Captura.PNG" style="width: 100px;">
+      <img src="img/Captura.PNG" style="width: 100px;">
     </td>
   </tr>
 </table>
