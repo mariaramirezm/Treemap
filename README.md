@@ -21,3 +21,56 @@ Malheureusement ces propriétés s'opposent : tandis que les proportions sont op
   </tr>
 </table>
 
+#Applications d’un Treemap:
+
+Un Treemap est principalement utilisé pour monter information hiérarchique laquelle put être représenté en utilisant l’structure d’arbre. Il est souvent utilisé pour étudier les modèles et occurrences d’une large base de données en utilisant les couleurs et la taille de façon corrélé.
+
+Pour pouvoir employer cette méthode l’information doit être structuré et avoir seulement une élément raisin.
+
+#Aspects importants :
+
+Tiling : processus de diviser grands rectangles en rectangles plus petits. De façon idéale l’aspect ratio des rectangles sera proche à un. Mais, c’est aussi important à tenir en compte la relation inverse entre l’ordre et l’aspect ratio.
+
+Aspect Ratio : quand il a une valeur haute les rectangles devient assez minces et difficiles à comparer. Pour cette raison on cherche à avoir une valeur proche à un.
+
+#Exemples
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="C:\Users\maria\Desktop\universidad\Master\Segundo\MOS\Visualisation des donnees\Tarea 1\Captura.PNG" style="width: 100px;">
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="C:\Users\maria\Desktop\universidad\Master\Segundo\MOS\Visualisation des donnees\Tarea 1\Captura.PNG" style="width: 100px;">
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="C:\Users\maria\Desktop\universidad\Master\Segundo\MOS\Visualisation des donnees\Tarea 1\Captura.PNG" style="width: 100px;">
+    </td>
+  </tr>
+</table>
+
+#Sources
+
+https://fr.wikipedia.org/wiki/Treemap
+
+https://docs.tibco.com/pub/spotfire_web_player/6.0.0-november-2013/es-ES/WebHelp/GUID-F3F4ABDF-8418-42D3-A1C4-60B7A8121C75.html
+
+https://datavizcatalogue.com/methods/treemap.html
+
+https://www.fusioncharts.com/dev/chart-guide/treemap/introducing-the-treemap.html
+
+https://en.wikipedia.org/wiki/Treemapping#/media/File:Gradient_grouped_treemap.jpg
+
+http://www.datarevelations.com/2015
+
+https://www.kaushik.net/avinash/data-visualization-inspiration-analysis-insights-action-faster/
