@@ -1,6 +1,6 @@
 ## Treemap
 
-#Information sur le Treemap
+# Information sur le Treemap
 
 Aussi appelé « Carte Proportionnelle », un TreeMap est la représentation de données hiérarchiques dans un espace limité divisé en rectangles auxquels une taille et un ordre sont assignés en fonction d’une variable quantitative. Cette technique de visualisation d'information est construite à partir d’un « Tree Diagram » et permet à l'utilisateur final de reconnaître facilement des motifs graphiques pouvant traduire des relations complexes au sein des données, relations difficiles à déceler autrement.
 
@@ -21,7 +21,7 @@ Malheureusement ces propriétés s'opposent : tandis que les proportions sont op
   </tr>
 </table>
 
-#Applications d’un Treemap:
+# Applications d’un Treemap:
 
 Un Treemap est principalement utilisé pour monter information hiérarchique laquelle put être représenté en utilisant l’structure d’arbre. Il est souvent utilisé pour étudier les modèles et occurrences d’une large base de données en utilisant les couleurs et la taille de façon corrélé.
 
@@ -33,7 +33,7 @@ Tiling : processus de diviser grands rectangles en rectangles plus petits. De fa
 
 Aspect Ratio : quand il a une valeur haute les rectangles devient assez minces et difficiles à comparer. Pour cette raison on cherche à avoir une valeur proche à un.
 
-#Exemples
+# Exemples
 
 <table border="0">
   <tr>
@@ -59,7 +59,7 @@ Aspect Ratio : quand il a une valeur haute les rectangles devient assez minces e
   </tr>
 </table>
 
-#Sources
+# Sources
 
 https://fr.wikipedia.org/wiki/Treemap
 
